@@ -8,3 +8,5 @@ External Packages and Dependecies:
 * Curved Nav Bar - curved_navigation_bar: ^1.0.3
 * Smooth Page Indicator - smooth_page_indicator: ^1.0.0+2
 * Fading Edge Scrollview - fading_edge_scrollview: ^3.0.0
+# Screenshots
+
