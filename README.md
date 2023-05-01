@@ -1,6 +1,6 @@
 # TripZone
 Trips Advisory App
-#Technology
+# Technology
 External Packages and Dependecies:
 
 * Provider (State Management) - provider: ^6.0.4
